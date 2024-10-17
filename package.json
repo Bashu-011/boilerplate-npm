@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Sydney Mukisira",
-	"dependencies": {
-		"express": "^4.14.0"
+  	"author": "Sydney Mukisira",
+  	"dependencies": {
+    "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
